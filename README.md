@@ -12,4 +12,5 @@ Repository structure:
   - Set up modules of the learning model
 - visualization.py/
   - Display the modules' behaviours and cost
-- results.ipynb: examples of experiments
+- results.ipynb:
+  - Playground for running experiments, viewing results, analyzing data
