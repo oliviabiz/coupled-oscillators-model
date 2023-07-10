@@ -1,6 +1,6 @@
-Modelling predictive inference with coupled neural oscillators
+# Modelling predictive inference with coupled neural oscillators
 
-# Repository Structure
+Repository structure:
 
 - analysis.py/
   - Analyze response data from multisensory experiments
